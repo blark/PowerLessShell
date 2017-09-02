@@ -9,7 +9,6 @@ import sys
 import re
 import os
 import click
-import ptpdb
 
 TEMPLATE = "include/template-"
 
